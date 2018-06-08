@@ -13,6 +13,11 @@
             - 條件
         - fundamentals
             - 基礎
+                - FindSmallestIntegerArray 
+                    - 找到陣列最小的數字，用min即可
+                - FindtheRemainder
+                    - 兩個數字都是0就返回null，簡單對比即可
+                
             - 陣列
             - 基本語言功能
             - 布林
