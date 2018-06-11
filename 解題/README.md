@@ -17,7 +17,14 @@
                     - 找到陣列最小的數字，用min即可
                 - FindtheRemainder
                     - 兩個數字都是0就返回null，簡單對比即可
-                
+                - Grasshopper_Ifelsesyntaxdebug
+                    - 修bug，簡單比較數字即可
+                - Howmanylightsabersdoyouown
+                    - 參數需要給預設值，不然測試資料裏面有藏數字，會不通過
+                - OppositeNumber
+                    - 給你一個數字，不用條件判斷找出這個數字的相反，很簡單，給-$n就好
+                - OppositesAttract
+                    - 兩邊一奇一偶就是true，否則就false，一個XOR的概念？              
             - 陣列
             - 基本語言功能
             - 布林
