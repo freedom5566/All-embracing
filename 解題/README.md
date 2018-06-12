@@ -13,7 +13,7 @@
             - 條件
         - fundamentals
             - 基礎
-                - FindSmallestIntegerArray 
+                - [FindSmallestIntegerArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindSmallestIntegerArray) 
                     - 找到陣列最小的數字，用min即可
                 - FindtheRemainder
                     - 兩個數字都是0就返回null，簡單對比即可
@@ -24,7 +24,17 @@
                 - OppositeNumber
                     - 給你一個數字，不用條件判斷找出這個數字的相反，很簡單，給-$n就好
                 - OppositesAttract
-                    - 兩邊一奇一偶就是true，否則就false，一個XOR的概念？              
+                    - 兩邊一奇一偶就是true，否則就false
+                - PalindromeStrings
+                    - 給的字串或數字反轉後跟原來一樣就true，否則就false，用strrev
+                - PreFizzBuzzWorkout
+                    - 給一個數字，輸出1~那個數字所有的數，用range即可
+                - RemoveExclamationMarks
+                    - 刪出字串所有驚嘆號，用str_replace過慮掉即可
+                - RockPaperScissors
+                    - 剪刀石頭布，用條件判斷即可
+                - StringRepeat
+                    - 給定一個字串跟數字，重複那個字串，次數為給定的數字，用str_repeat
             - 陣列
             - 基本語言功能
             - 布林
