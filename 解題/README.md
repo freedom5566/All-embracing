@@ -15,25 +15,25 @@
             - 基礎
                 - [FindSmallestIntegerArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindSmallestIntegerArray) 
                     - 找到陣列最小的數字，用min即可
-                - FindtheRemainder
+                - [FindtheRemainder](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindtheRemainder)
                     - 兩個數字都是0就返回null，簡單對比即可
-                - Grasshopper_Ifelsesyntaxdebug
+                - [Grasshopper_Ifelsesyntaxdebug](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/Grasshopper_Ifelsesyntaxdebug)
                     - 修bug，簡單比較數字即可
-                - Howmanylightsabersdoyouown
+                - [Howmanylightsabersdoyouown](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/Howmanylightsabersdoyouown)
                     - 參數需要給預設值，不然測試資料裏面有藏數字，會不通過
-                - OppositeNumber
+                - [OppositeNumber](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/OppositeNumber)
                     - 給你一個數字，不用條件判斷找出這個數字的相反，很簡單，給-$n就好
-                - OppositesAttract
+                - [OppositesAttract](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/OppositesAttract)
                     - 兩邊一奇一偶就是true，否則就false
-                - PalindromeStrings
+                - [PalindromeStrings](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/PalindromeStrings)
                     - 給的字串或數字反轉後跟原來一樣就true，否則就false，用strrev
-                - PreFizzBuzzWorkout
+                - [PreFizzBuzzWorkout](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/PreFizzBuzzWorkout)
                     - 給一個數字，輸出1~那個數字所有的數，用range即可
-                - RemoveExclamationMarks
+                - [RemoveExclamationMarks](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/RemoveExclamationMarks)
                     - 刪出字串所有驚嘆號，用str_replace過慮掉即可
-                - RockPaperScissors
+                - [RockPaperScissors](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/RockPaperScissors)
                     - 剪刀石頭布，用條件判斷即可
-                - StringRepeat
+                - [StringRepeat](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/StringRepeat)
                     - 給定一個字串跟數字，重複那個字串，次數為給定的數字，用str_repeat
             - 陣列
             - 基本語言功能
