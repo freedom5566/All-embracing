@@ -4,6 +4,10 @@
     - 8kyu
         - alogorithms
             - 陣列
+                - GetTheMeanofanArray
+                    - 算出陣列平均總和
+                - Myheadisatthewrongend
+                    - 一個德偉恩偉德的概念，頭尾字串交換即可
             - 布林
         - bugs
             - 基礎
