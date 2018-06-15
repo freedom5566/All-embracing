@@ -11,6 +11,7 @@
             - 布林
                 - DoIgetabonus
                     - 基本bool判斷
+            - 基礎
                 - DollarsandCents
                     - 把數字轉成美元，用sprintf或是money_format（不過這題程度不需要）
         - bugs
