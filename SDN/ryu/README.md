@@ -10,9 +10,12 @@ git tag -l
 
 ryu-manager ryu.app.ofctl_rest
 
-持續紀錄log可以用
+背景執行並持續紀錄log可以用
 
 
 
 ryu-manager ryu.app.ofctl_rest --use-syslog --verbose >> /var/log/ryu.log 2>&1 &
+
+
+[ryu-manager -h](https://github.com/osrg/ryu/blob/master/doc/source/man/ryu_manager.rst)列出所有命令
 
