@@ -9,6 +9,10 @@
                 - Myheadisatthewrongend
                     - 一個德偉恩偉德的概念，頭尾字串交換即可
             - 布林
+                - DoIgetabonus
+                    - 基本bool判斷
+                - DollarsandCents
+                    - 把數字轉成美元，用sprintf或是money_format（不過這題程度不需要）
         - bugs
             - 基礎
             - 函數
