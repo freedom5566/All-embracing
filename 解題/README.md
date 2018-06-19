@@ -59,20 +59,50 @@
                 - [StringRepeat](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/StringRepeat)
                     - 給定一個字串跟數字，重複那個字串，次數為給定的數字，用str_repeat
             - 陣列
+                - CountOfPositivesSumOfNegatives
+                - NeedleHaystack
+                - Sumofpositive
             - 基本語言功能
+                - FindMaximumAndMinimumValuesOfAList
+                - RemoveFirstandLastCharacter
+                - SumWithoutHighestandlowestnumber
             - 布林
+                - ConvertBooleanValuesTostringsYesorNo
             - 條件
+                - BartenderDrinks
+                - DrinkAbout
             - 日期和時間
+                - IsYourPeriodLate
+                - remoteTIme
             - 格式化
+                - FormattingDecimalPlaces
             - 函數程式
+                - CalculateAverage
             - 指令式程式
+                - ClassicHelloWorld
             - 迴圈
+                - GrasshopperSummation
+                - LarioAndMuigiPipeProblem
+                - SentenceSmash
+                - SumArrays
+                - YouCanSleepJustCountSheeps
             - 數學
+                - BasicMathematicalOperations
+                - EvenorOdd
+                - FuelCalculator
             - 數字
+                - CenturyFromYear
             - 字串
+                - FakeBinary
+                - IsThereaVowelInThere
+                - RemoveStringSpaces
+                - ReversedStrings
+                - ReversingWordsString
+                - TheWide-MouthedFrog
              
             
-        - pussles
+        - puzzles
             - 智力遊戲
+                - AreaofSquare
 2. UVA
     - 一星
