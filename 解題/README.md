@@ -16,10 +16,24 @@
                     - 把數字轉成美元，用sprintf或是money_format（不過這題程度不需要）
         - bugs
             - 函數
+                - FixtheBugsMyFirstKata
+                    - 純修bug
             - 整數
+                - ParseNiceIntFromCharProblem
+                    - 讓返回都是數字
             - 迴圈
+                - UnfinishedLoopBugFIx
+                    - 修復for迴圈沒有初始值問題 
             - 條件
+                - JennySecretMessage
+                    - 修復函數
             - 基礎
+                - 101dogs
+                    - 根據狗的數量來決定回傳甚麼
+                - BasicVariableAssignment
+                    - 用`.`的方式把字串串起來
+                - Multiply
+                    - 純修bug
         - fundamentals
             - 基礎
                 - [FindSmallestIntegerArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindSmallestIntegerArray) 
