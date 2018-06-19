@@ -15,11 +15,11 @@
                 - [DollarsandCents](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/algorithms/%E5%9F%BA%E7%A4%8E/DollarsandCents)
                     - 把數字轉成美元，用sprintf或是money_format（不過這題程度不需要）
         - bugs
-            - 基礎
             - 函數
             - 整數
             - 迴圈
             - 條件
+            - 基礎
         - fundamentals
             - 基礎
                 - [FindSmallestIntegerArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindSmallestIntegerArray) 
