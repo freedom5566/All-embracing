@@ -59,9 +59,12 @@
                 - [StringRepeat](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/StringRepeat)
                     - 給定一個字串跟數字，重複那個字串，次數為給定的數字，用str_repeat
             - 陣列
-                - CountOfPositivesSumOfNegatives
-                - NeedleHaystack
-                - Sumofpositive
+                - [CountOfPositivesSumOfNegatives](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/arrays%E9%99%A3%E5%88%97/CountOfPositivesSumOfNegatives)
+                    - 給出兩個陣列元素，一個是正數的總和一個是負數的總和
+                - [NeedleHaystack](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/arrays%E9%99%A3%E5%88%97/NeedleHaystack)
+                    - 找出陣列的元素，最簡單的方式是用array_search
+                - [Sumofpositive](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/arrays%E9%99%A3%E5%88%97/Sumofpositive)
+                    - 把所有正整數相加，略掉負數，用array_filter跟array_sum
             - 基本語言功能
                 - FindMaximumAndMinimumValuesOfAList
                 - RemoveFirstandLastCharacter
