@@ -66,9 +66,12 @@
                 - [Sumofpositive](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/arrays%E9%99%A3%E5%88%97/Sumofpositive)
                     - 把所有正整數相加，略掉負數，用array_filter跟array_sum
             - 基本語言功能
-                - FindMaximumAndMinimumValuesOfAList
-                - RemoveFirstandLastCharacter
-                - SumWithoutHighestandlowestnumber
+                - [FindMaximumAndMinimumValuesOfAList](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/BasicLanguageFeatures%E5%9F%BA%E6%9C%AC%E8%AA%9E%E8%A8%80%E5%8A%9F%E8%83%BD/FindMaximumAndMinimumValuesOfAList)
+                    - 有兩個函式，一個返回最大值一個返回最小值用max跟min就好
+                - [RemoveFirstandLastCharacter](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/BasicLanguageFeatures%E5%9F%BA%E6%9C%AC%E8%AA%9E%E8%A8%80%E5%8A%9F%E8%83%BD/RemoveFirstandLastCharacter)
+                    - 移除字串的頭尾，此題用了substr+strlen
+                - [SumWithoutHighestandlowestnumber](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/BasicLanguageFeatures%E5%9F%BA%E6%9C%AC%E8%AA%9E%E8%A8%80%E5%8A%9F%E8%83%BD/SumWithoutHighestandlowestnumber)
+                    - 移除最大跟最小值，給出總和
             - 布林
                 - ConvertBooleanValuesTostringsYesorNo
             - 條件
