@@ -73,7 +73,8 @@
                 - [SumWithoutHighestandlowestnumber](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/BasicLanguageFeatures%E5%9F%BA%E6%9C%AC%E8%AA%9E%E8%A8%80%E5%8A%9F%E8%83%BD/SumWithoutHighestandlowestnumber)
                     - 移除最大跟最小值，給出總和，先總和array_sum然後減去min、max
             - 布林
-                - ConvertBooleanValuesTostringsYesorNo
+                - [ConvertBooleanValuesTostringsYesorNo](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/booleans%E5%B8%83%E6%9E%97/ConvertBooleanValuesTostringsYesorNo)
+                    - 根據yes或no來回傳True或false
             - 條件
                 - BartenderDrinks
                 - DrinkAbout
