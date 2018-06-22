@@ -76,8 +76,10 @@
                 - [ConvertBooleanValuesTostringsYesorNo](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/booleans%E5%B8%83%E6%9E%97/ConvertBooleanValuesTostringsYesorNo)
                     - 根據yes或no來回傳True或false
             - 條件
-                - BartenderDrinks
-                - DrinkAbout
+                - [BartenderDrinks](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/conditionalStatement%E6%A2%9D%E4%BB%B6/BartenderDrinks)
+                    - 條件判斷直接回傳陣列，這樣可以一行
+                - [DrinkAbout](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/conditionalStatement%E6%A2%9D%E4%BB%B6/DrinkAbout)
+                    - 幾歲可以喝甚麼，三元運算可以一行
             - 日期和時間
                 - IsYourPeriodLate
                 - remoteTIme
