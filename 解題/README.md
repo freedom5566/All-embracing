@@ -81,8 +81,10 @@
                 - [DrinkAbout](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/conditionalStatement%E6%A2%9D%E4%BB%B6/DrinkAbout)
                     - 幾歲可以喝甚麼，三元運算可以一行
             - 日期和時間
-                - IsYourPeriodLate
-                - remoteTIme
+                - [IsYourPeriodLate](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/dateortime%E6%97%A5%E6%9C%9F%E5%92%8C%E6%99%82%E9%96%93/IsYourPeriodLate)
+                    - 檢查日期，用了abs、strtotime、date_format，可以看看best解法
+                - [remoteTIme](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/dateortime%E6%97%A5%E6%9C%9F%E5%92%8C%E6%99%82%E9%96%93/remoteTIme)
+                    - 縮短時間格式，我直接用explode，然後回傳[0]
             - 格式化
                 - FormattingDecimalPlaces
             - 函數程式
