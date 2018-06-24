@@ -86,7 +86,8 @@
                 - [remoteTIme](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/dateortime%E6%97%A5%E6%9C%9F%E5%92%8C%E6%99%82%E9%96%93/remoteTIme)
                     - 縮短時間格式，我直接用explode，然後回傳[0]
             - 格式化
-                - FormattingDecimalPlaces
+                - [FormattingDecimalPlaces](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/Formatting%E6%A0%BC%E5%BC%8F%E5%8C%96/FormattingDecimalPlaces)
+                    - 小數點取後兩位，用round就好
             - 函數程式
                 - CalculateAverage
             - 指令式程式
