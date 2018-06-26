@@ -92,7 +92,8 @@
                 - [CalculateAverage](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/functionalProgramming%E5%87%BD%E6%95%B8%E7%A8%8B%E5%BC%8F/CalculateAverage)
                     - 計算陣列中平均值，arraysum除count
             - 指令式程式
-                - ClassicHelloWorld
+                - [ClassicHelloWorld](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/Imperativeprogramming%E6%8C%87%E4%BB%A4%E5%BC%8F%E7%A8%8B%E5%BC%8F/ClassicHelloWorld)
+                    - 印出hello，不用想太複雜
             - 迴圈
                 - GrasshopperSummation
                 - LarioAndMuigiPipeProblem
