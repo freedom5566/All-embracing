@@ -95,11 +95,16 @@
                 - [ClassicHelloWorld](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/Imperativeprogramming%E6%8C%87%E4%BB%A4%E5%BC%8F%E7%A8%8B%E5%BC%8F/ClassicHelloWorld)
                     - 印出hello，不用想太複雜
             - 迴圈
-                - GrasshopperSummation
-                - LarioAndMuigiPipeProblem
-                - SentenceSmash
-                - SumArrays
-                - YouCanSleepJustCountSheeps
+                - [GrasshopperSummation](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88/GrasshopperSummation)
+                    - 1+.....n的題目
+                - [LarioAndMuigiPipeProblem](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88/LarioAndMuigiPipeProblem)
+                    - 會有缺數字，把他補回來， 用range、min、max
+                - [SentenceSmash](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88/SentenceSmash)
+                    - 把讀進來的陣列組成字串，每個字串中間要空白，並注意前後空白(實際上隱藏測試並沒有)
+                - [SumArrays](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88)
+                    - array_sum搞定
+                - [YouCanSleepJustCountSheeps](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88/YouCanSleepJustCountSheeps)
+                    - 寫個回圈加個implode
             - 數學
                 - BasicMathematicalOperations
                 - EvenorOdd
