@@ -107,8 +107,11 @@
                     - 寫個回圈加個implode
             - 數學
                 - BasicMathematicalOperations
+                    - 簡單加減陳除
                 - EvenorOdd
+                    - 判斷基數偶數
                 - FuelCalculator
+                    - IF判斷
             - 數字
                 - CenturyFromYear
             - 字串
