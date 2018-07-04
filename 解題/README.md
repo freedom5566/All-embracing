@@ -106,11 +106,11 @@
                 - [YouCanSleepJustCountSheeps](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/loops%E8%BF%B4%E5%9C%88/YouCanSleepJustCountSheeps)
                     - 寫個回圈加個implode
             - 數學
-                - BasicMathematicalOperations
+                - [BasicMathematicalOperations](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/math%E6%95%B8%E5%AD%B8/BasicMathematicalOperations)
                     - 簡單加減陳除
-                - EvenorOdd
+                - [EvenorOdd](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/math%E6%95%B8%E5%AD%B8/EvenorOdd)
                     - 判斷基數偶數
-                - FuelCalculator
+                - [FuelCalculator](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/math%E6%95%B8%E5%AD%B8/FuelCalculator)
                     - IF判斷
             - 數字
                 - CenturyFromYear
