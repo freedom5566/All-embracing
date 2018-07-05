@@ -113,7 +113,8 @@
                 - [FuelCalculator](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/math%E6%95%B8%E5%AD%B8/FuelCalculator)
                     - IF判斷
             - 數字
-                - CenturyFromYear
+                - [CenturyFromYear]()
+                    - 閏年題
             - 字串
                 - FakeBinary
                 - IsThereaVowelInThere
