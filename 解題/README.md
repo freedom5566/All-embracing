@@ -117,6 +117,8 @@
                     - 閏年題
             - 字串
                 - FakeBinary
+                    - 給一個字串，你要用0替換5以下的任何數字，用1替換5以上的任何數字，最後回傳字串，這題用了preg_replace。
+                
                 - IsThereaVowelInThere
                 - RemoveStringSpaces
                 - ReversedStrings
