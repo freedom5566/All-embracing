@@ -1,3 +1,5 @@
+<?php
+
 // framework/index.php
 $name = $_GET['name'];
 
