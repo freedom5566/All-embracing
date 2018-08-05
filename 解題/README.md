@@ -3,37 +3,8 @@
 1. codewars
     - 8kyu
         - alogorithms
-            - 陣列
-                - [GetTheMeanofanArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/algorithms/array%E9%99%A3%E5%88%97/GetTheMeanofanArray)
-                    - 算出陣列平均總和
-                - [Myheadisatthewrongend](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/algorithms/array%E9%99%A3%E5%88%97/Myheadisatthewrongend)
-                    - 一個德偉恩偉德的概念，頭尾字串交換即可
-            - 布林
-                - [DoIgetabonus](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/algorithms/booleans%E5%B8%83%E6%9E%97/DoIgetabonus)
-                    - 基本bool判斷
-            - 基礎
-                - [DollarsandCents](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/algorithms/%E5%9F%BA%E7%A4%8E/DollarsandCents)
-                    - 把數字轉成美元，用sprintf或是money_format（不過這題程度不需要）
-        - bugs
-            - 函數
-                - [FixtheBugsMyFirstKata](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/function%E5%87%BD%E6%95%B8/FixtheBugsMyFirstKata)
-                    - 純修bug
-            - 整數
-                - [ParseNiceIntFromCharProblem](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/integer%E6%95%B4%E6%95%B8/ParseNiceIntFromCharProblem)
-                    - 讓返回都是數字
-            - 迴圈
-                - [UnfinishedLoopBugFIx](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/loops%E8%BF%B4%E5%9C%88/UnfinishedLoopBugFIx)
-                    - 修復for迴圈沒有初始值問題 
-            - 條件
-                - [JennySecretMessage](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/conditionalStatement%E6%A2%9D%E4%BB%B6/JennySecretMessage)
-                    - 修復函數
-            - 基礎
-                - [101dogs](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/%E5%9F%BA%E7%A4%8E/101dogs)
-                    - 根據狗的數量來決定回傳甚麼
-                - [BasicVariableAssignment](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/%E5%9F%BA%E7%A4%8E/BasicVariableAssignment)
-                    - 用`.`的方式把字串串起來
-                - [Multiply](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/bugs/%E5%9F%BA%E7%A4%8E/Multiply)
-                    - 純修bug
+            
+        
         - fundamentals
             - 基礎
                 - [FindSmallestIntegerArray](https://github.com/freedom5566/All-embracing/tree/master/%E8%A7%A3%E9%A1%8C/codewars/8kyu/fundamentals/%E5%9F%BA%E7%A4%8E/FindSmallestIntegerArray) 
