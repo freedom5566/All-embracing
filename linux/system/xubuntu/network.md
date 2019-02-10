@@ -9,3 +9,7 @@
 可是只有 nmcli 設定的可以連線網路.......
 
 QQ
+
+參考
+
+https://askubuntu.com/questions/966647/how-to-create-a-dsl-connection-in-network-manager-in-ubuntu-17-10
